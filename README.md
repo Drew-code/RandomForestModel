@@ -2,7 +2,7 @@
 A quick start guide to using random forest models in Python  
 ## Introduction  
 Random Forest Modeling is great to use when decision tree modeling results seem to be strongly correlated to one variable 
-in the dataset. Random forest picks as the the name implies, random rows out of the dataset and removes variables at random in those selections. It then averages out the results of those datasets to give you a more unbiased prediction.  
+in the dataset. Random forest picks as the the name implies, random rows out of the dataset and removes variables at random in those selections. It then averages out the results of those datasets to give you a more unbiased prediction. 
 Often times this is run in conjuction with a decision tree model. the dataset that will be used in this example, are amazon 
 stock prices that were pulled. It shows weather or not the stock changed a certain percentage.
  
