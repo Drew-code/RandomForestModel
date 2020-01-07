@@ -10,7 +10,7 @@ stock prices that were pulled. It shows whether or not the stock changed a certa
 1. Python 3.7 or newer  
 2. Scikit-Learn module for Python  
 3. Pandas module for Python  
-4. Numpy Modules for Python
+4. Numpy module for Python
   
 ## Walkthough  
 Start by importing all modules you will need at the beginning of your script. These include: Pandas, Scikit-Learn,  
